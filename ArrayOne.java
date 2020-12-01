@@ -1,3 +1,5 @@
+// Penjumlahan dalam array
+
 public class ArrayOne {
     public static void main(String args[]) {
         
@@ -14,3 +16,6 @@ public class ArrayOne {
       System.out.println("hasilnya adalah "+sum);
     }
 }
+
+
+
